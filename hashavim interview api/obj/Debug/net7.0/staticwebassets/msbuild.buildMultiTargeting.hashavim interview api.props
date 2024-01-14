@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/hashavim interview api.props" />
+</Project>

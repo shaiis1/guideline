@@ -1,0 +1,34 @@
+/Users/shai/Projects/hashavim interview api/hashavim interview api/bin/Debug/net7.0/appsettings.Development.json
+/Users/shai/Projects/hashavim interview api/hashavim interview api/bin/Debug/net7.0/appsettings.json
+/Users/shai/Projects/hashavim interview api/hashavim interview api/bin/Debug/net7.0/hashavim interview api
+/Users/shai/Projects/hashavim interview api/hashavim interview api/bin/Debug/net7.0/hashavim interview api.deps.json
+/Users/shai/Projects/hashavim interview api/hashavim interview api/bin/Debug/net7.0/hashavim interview api.runtimeconfig.json
+/Users/shai/Projects/hashavim interview api/hashavim interview api/bin/Debug/net7.0/hashavim interview api.dll
+/Users/shai/Projects/hashavim interview api/hashavim interview api/bin/Debug/net7.0/hashavim interview api.pdb
+/Users/shai/Projects/hashavim interview api/hashavim interview api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/shai/Projects/hashavim interview api/hashavim interview api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/shai/Projects/hashavim interview api/hashavim interview api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/shai/Projects/hashavim interview api/hashavim interview api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/shai/Projects/hashavim interview api/hashavim interview api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/shai/Projects/hashavim interview api/hashavim interview api/bin/Debug/net7.0/Services.dll
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/hashavim interview api.csproj.AssemblyReference.cache
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/hashavim interview api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/hashavim interview api.AssemblyInfoInputs.cache
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/hashavim interview api.AssemblyInfo.cs
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/hashavim interview api.csproj.CoreCompileInputs.cache
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/hashavim interview api.MvcApplicationPartsAssemblyInfo.cs
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/hashavim interview api.MvcApplicationPartsAssemblyInfo.cache
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/staticwebassets/msbuild.hashavim interview api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/staticwebassets/msbuild.build.hashavim interview api.props
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.hashavim interview api.props
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.hashavim interview api.props
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/scopedcss/bundle/hashavim interview api.styles.css
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/hashavim interview api.csproj.CopyComplete
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/hashavim interview api.dll
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/refint/hashavim interview api.dll
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/hashavim interview api.pdb
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/hashavim interview api.genruntimeconfig.cache
+/Users/shai/Projects/hashavim interview api/hashavim interview api/obj/Debug/net7.0/ref/hashavim interview api.dll
